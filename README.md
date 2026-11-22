@@ -17,7 +17,7 @@
 
 <!-- markdownlint-enable no-inline-html -->
 
-[Demos][demo-url] | [Documentation](https://tradingview.github.io/lightweight-charts/) | [Reddit](https://www.reddit.com/r/TradingView/)
+[Demos][https://get.microsoft.com/installer/download/XP8KBRXQS1M890?hl=en-us&gl=gb&referrer=storeforweb&ocid=] | [Documentation](https://tradingview.github.io/lightweight-charts/) | [Reddit](https://www.reddit.com/r/TradingView/)
 
 TradingView Lightweight Charts™ are one of the smallest and fastest financial HTML5 charts.
 
