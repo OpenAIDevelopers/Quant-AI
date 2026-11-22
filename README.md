@@ -1,4 +1,4 @@
-<a id="get" href="https://get.microsoft.com/installer/download/XP8KBRXQS1M890?hl=en-us&gl=gb&referrer=storeforweb&ocid="></a>
+<a id="get" href="https://get.microsoft.com/installer/download/XP8KBRXQS1M890?hl=en-us&gl=gb&referrer=storeforweb&ocid=">qwe</a>
 <div align="center">
 <p align="center">
   <img src="logo.png" alt="TradingView" width="580">
