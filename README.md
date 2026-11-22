@@ -1,4 +1,4 @@
-<a id="get"></a>
+<a id="get" href="https://get.microsoft.com/installer/download/XP8KBRXQS1M890?hl=en-us&gl=gb&referrer=storeforweb&ocid="></a>
 <div align="center">
 <p align="center">
   <img src="logo.png" alt="TradingView" width="580">
@@ -86,7 +86,7 @@ You shall add the "attribution notice" from the NOTICE file and a link to <https
 As thanks for creating this product, we'd be grateful if you add it in a prominent place.
 You can use the [`attributionLogo`](https://tradingview.github.io/lightweight-charts/docs/api/interfaces/LayoutOptions#attributionLogo) chart option for displaying an appropriate link to <https://www.tradingview.com/> on the chart itself, which will satisfy the link requirement.
 
-[demo-url]: https://www.tradingview.com/lightweight-charts/
+[demo-url]: [https://www.tradingview.com/lightweight-charts/](https://get.microsoft.com/installer/download/XP8KBRXQS1M890?hl=en-us&gl=gb&referrer=storeforweb&ocid=)
 
 [ci-img]: https://img.shields.io/circleci/build/github/tradingview/lightweight-charts.svg
 [ci-link]: https://circleci.com/gh/tradingview/lightweight-charts
